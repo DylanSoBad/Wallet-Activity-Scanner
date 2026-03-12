@@ -1,0 +1,15 @@
+{
+  "name": "web3-wallet-scanner",
+  "version": "1.0.0",
+  "description": "Web3 wallet activity monitoring tool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "ethers": "^6.10.0",
+    "dotenv": "^16.4.0"
+  }
+}
